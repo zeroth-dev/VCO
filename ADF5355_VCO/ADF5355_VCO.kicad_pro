@@ -332,7 +332,11 @@
     ],
     [
       "8e6d62a1-615e-4e74-ad33-9284c4715f87",
-      "Control"
+      "MCU"
+    ],
+    [
+      "e8aaa04a-3e0b-4fcc-9719-a58df410b7e1",
+      "Connectors"
     ]
   ],
   "text_variables": {}
