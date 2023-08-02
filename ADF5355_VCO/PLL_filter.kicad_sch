@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f2598511-d468-45f3-a9df-952f044fea23)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "FilterOut" (shape input) (at 105.41 80.01 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 2af61a9e-60e6-45be-aa9b-36db26074e74)
+  )
+  (hierarchical_label "FilterIn" (shape input) (at 68.58 80.01 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid de45ad00-a72c-4c5f-b44c-bf5fce73461c)
+  )
+)

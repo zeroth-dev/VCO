@@ -487,6 +487,14 @@
     [
       "fa8fa127-05a9-4ec7-8a64-8bfb966dae3d",
       "LCD screen"
+    ],
+    [
+      "ea810e70-e3dc-4641-ad7c-8ecf7484ded2",
+      "ADF5355"
+    ],
+    [
+      "4fb3fdf7-9989-4bca-990a-9fa91b0feaa2",
+      "PLL_filter"
     ]
   ],
   "text_variables": {}
