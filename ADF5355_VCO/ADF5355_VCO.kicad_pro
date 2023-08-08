@@ -495,6 +495,10 @@
     [
       "4fb3fdf7-9989-4bca-990a-9fa91b0feaa2",
       "PLL_filter"
+    ],
+    [
+      "15f14a7a-b8b3-478a-b13a-51796c28d4d6",
+      "Status LEDs"
     ]
   ],
   "text_variables": {}
