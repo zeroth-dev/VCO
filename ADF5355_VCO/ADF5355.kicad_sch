@@ -1676,7 +1676,7 @@
 
   (sheet (at 87.63 101.6) (size 12.7 11.43) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid 4fb3fdf7-9989-4bca-990a-9fa91b0feaa2)
     (property "Sheetname" "PLL_filter" (at 87.63 100.8884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))

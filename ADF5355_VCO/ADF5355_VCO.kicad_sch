@@ -162,7 +162,7 @@
 
   (sheet (at 81.28 30.48) (size 33.02 11.43) (fields_autoplaced)
     (stroke (width 0) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid 00000000-0000-0000-0000-000064ac72b7)
     (property "Sheetname" "PowerSupply" (at 81.28 29.7684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -191,7 +191,7 @@
 
   (sheet (at 128.27 44.45) (size 43.18 49.53) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid 8e6d62a1-615e-4e74-ad33-9284c4715f87)
     (property "Sheetname" "MCU" (at 127.5584 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -260,7 +260,7 @@
 
   (sheet (at 20.32 27.94) (size 39.37 26.67) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 241 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid e8aaa04a-3e0b-4fcc-9719-a58df410b7e1)
     (property "Sheetname" "Connectors" (at 20.32 27.2284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -293,7 +293,7 @@
 
   (sheet (at 204.47 68.58) (size 25.4 41.91) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid ea810e70-e3dc-4641-ad7c-8ecf7484ded2)
     (property "Sheetname" "ADF5355" (at 204.47 67.8684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -346,7 +346,7 @@
 
   (sheet (at 53.34 83.82) (size 12.7 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid fa8fa127-05a9-4ec7-8a64-8bfb966dae3d)
     (property "Sheetname" "LCD screen" (at 53.34 83.1084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))

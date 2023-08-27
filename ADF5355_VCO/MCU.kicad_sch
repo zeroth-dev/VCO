@@ -3228,7 +3228,7 @@
 
   (sheet (at 171.45 62.23) (size 22.86 41.91) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 255 240 101 1.0000))
+    (fill (color 0 0 0 0.0000))
     (uuid 15f14a7a-b8b3-478a-b13a-51796c28d4d6)
     (property "Sheetname" "Status LEDs" (at 171.45 61.5184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
