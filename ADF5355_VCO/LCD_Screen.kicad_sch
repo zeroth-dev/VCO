@@ -571,7 +571,7 @@
     (property "Value" "10k" (at 149.86 73.66 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 143.51 73.66 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical" (at 143.51 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 73.66 0)

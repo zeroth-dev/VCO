@@ -499,6 +499,10 @@
     [
       "15f14a7a-b8b3-478a-b13a-51796c28d4d6",
       "Status LEDs"
+    ],
+    [
+      "0a9da532-7f24-4af9-aae6-2e30a2dfa71c",
+      "TCXO"
     ]
   ],
   "text_variables": {}
