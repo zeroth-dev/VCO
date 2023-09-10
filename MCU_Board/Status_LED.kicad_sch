@@ -406,7 +406,7 @@
     (pin "1" (uuid 10ec4a75-d6b0-4abd-acd0-c9bd1b51ad66))
     (pin "2" (uuid b0148ec5-03f9-4008-8977-6e679abcf620))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R25") (unit 1)
         )
@@ -432,7 +432,7 @@
     (pin "1" (uuid 0d7ea020-e175-483b-b39f-11b2e0364a65))
     (pin "2" (uuid 42a0d27d-c84f-42b3-bc8c-a7cc83557f48))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87"
           (reference "D1") (unit 1)
         )
@@ -460,7 +460,7 @@
     )
     (pin "1" (uuid a220ce37-5859-4ab9-8946-ba70e82a20a7))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR052") (unit 1)
         )
@@ -485,7 +485,7 @@
     )
     (pin "1" (uuid 8d48ed21-5561-4803-ab03-c6e0852c7ceb))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR051") (unit 1)
         )
@@ -511,7 +511,7 @@
     (pin "1" (uuid 55fb7814-a03a-4123-b09b-c422d4c91efd))
     (pin "2" (uuid bedcd6ce-88ab-4efa-afe4-3a2d95b4db52))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R15") (unit 1)
         )
@@ -536,7 +536,7 @@
     )
     (pin "1" (uuid bfb48e2e-6ff7-41a2-9047-d8771b825cf0))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR030") (unit 1)
         )
@@ -561,7 +561,7 @@
     )
     (pin "1" (uuid 430ba132-5399-45ac-aa5c-6ae3b7ce1f71))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR053") (unit 1)
         )
@@ -587,7 +587,7 @@
     (pin "1" (uuid 838678d1-c83e-4cee-b31d-1288b2e0389a))
     (pin "2" (uuid 4aa4ee21-8925-4bfa-a100-020c5a1d3621))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87"
           (reference "D1") (unit 1)
         )
@@ -615,7 +615,7 @@
     )
     (pin "1" (uuid 7e10d427-08a7-49de-bcf1-53233aac3f39))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR055") (unit 1)
         )
@@ -641,7 +641,7 @@
     (pin "1" (uuid 5088c2e3-5e67-4dd2-b7bf-ac2f5fef1a67))
     (pin "2" (uuid fd4cc45d-a27c-4395-b0f2-740d3a28cbbe))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R8") (unit 1)
         )
@@ -667,7 +667,7 @@
     (pin "1" (uuid 7c141e6d-7b1a-43e3-8544-fc99ea1022bb))
     (pin "2" (uuid 65929c3e-7e0d-452c-b3df-18f47eda802f))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R16") (unit 1)
         )
@@ -693,7 +693,7 @@
     (pin "1" (uuid b0589bbe-d0d3-443c-b9ab-f3f6dd066029))
     (pin "2" (uuid 68a6eb99-b42c-4d0b-b456-d266fe56f14a))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R14") (unit 1)
         )
@@ -720,7 +720,7 @@
     (pin "2" (uuid 760b1e63-681b-46e4-8274-e1f05be049c1))
     (pin "3" (uuid b4ce226e-e8f7-468e-8fee-fdd71f290488))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "Q2") (unit 1)
         )
@@ -746,7 +746,7 @@
     (pin "1" (uuid a931470d-4c58-4a46-b1f6-8152533959cd))
     (pin "2" (uuid 44a37ff8-d14b-4975-af5e-9d0a7c528216))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87"
           (reference "D1") (unit 1)
         )
@@ -776,7 +776,7 @@
     (pin "2" (uuid b37c3f03-cc06-4810-b1e6-ecad6e18ab32))
     (pin "3" (uuid aeefe3ac-d638-4e12-9315-a01e80e9dcd5))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "Q3") (unit 1)
         )
@@ -802,7 +802,7 @@
     (pin "1" (uuid 1cb52c90-fa5e-4d70-aebd-e72f85786ef1))
     (pin "2" (uuid 24d112ef-daa3-44fd-ac71-0fe58f3e8858))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "R24") (unit 1)
         )
@@ -829,7 +829,7 @@
     (pin "2" (uuid 1320c9cf-dab1-4498-926b-82159f3ac6f8))
     (pin "3" (uuid 79de8c95-fba5-409e-a64f-43884539f6de))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "Q1") (unit 1)
         )
@@ -854,7 +854,7 @@
     )
     (pin "1" (uuid de4c4927-0e15-4b71-b5cf-329bf895dba9))
     (instances
-      (project "ADF5355_VCO"
+      (project "MCU_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/8e6d62a1-615e-4e74-ad33-9284c4715f87/15f14a7a-b8b3-478a-b13a-51796c28d4d6"
           (reference "#PWR054") (unit 1)
         )

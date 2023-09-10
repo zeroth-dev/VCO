@@ -442,7 +442,7 @@
     )
     (pin "1" (uuid b07a538b-e777-44ad-8d1d-27abd420f543))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/e8aaa04a-3e0b-4fcc-9719-a58df410b7e1"
           (reference "#PWR015") (unit 1)
         )
@@ -467,7 +467,7 @@
     )
     (pin "1" (uuid 6cb3a07c-951d-4ad0-981a-efb7526c26a0))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/00000000-0000-0000-0000-000064ac72b7"
           (reference "#PWR?") (unit 1)
         )
@@ -500,7 +500,7 @@
     (pin "5" (uuid a522b772-8941-4ea0-b6ac-0cf6e2f04aa4))
     (pin "6" (uuid edc85137-e19f-4ebd-b88a-88f930d74ace))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/e8aaa04a-3e0b-4fcc-9719-a58df410b7e1"
           (reference "J2") (unit 1)
         )
@@ -526,7 +526,7 @@
     (pin "1" (uuid 1dc92a0f-419a-4b76-bfae-f950af6d7432))
     (pin "2" (uuid 34ba79ea-c546-4fc3-be5e-168b5aa7dc5e))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/e8aaa04a-3e0b-4fcc-9719-a58df410b7e1"
           (reference "J5") (unit 1)
         )
@@ -552,7 +552,7 @@
     (pin "1" (uuid 21cb40d5-f67c-4c9f-8df7-0255c9acbeda))
     (pin "2" (uuid 0192daa8-2dc0-4f24-bf18-760722975f92))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/00000000-0000-0000-0000-000064ac72b7"
           (reference "J1") (unit 1)
         )
@@ -580,7 +580,7 @@
     )
     (pin "1" (uuid b553a887-9677-41f8-ad8d-0eb9ab14edb5))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/00000000-0000-0000-0000-000064ac72b7"
           (reference "#PWR?") (unit 1)
         )
@@ -609,7 +609,7 @@
     (pin "1" (uuid 1bcd9037-f500-453a-a131-89f21cfd0bf5))
     (pin "2" (uuid 316ca958-204c-4859-8de9-a1e26263abab))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/e8aaa04a-3e0b-4fcc-9719-a58df410b7e1"
           (reference "J4") (unit 1)
         )
@@ -634,7 +634,7 @@
     )
     (pin "1" (uuid 24f6d58a-f311-402e-8bd0-1d3dd9bf113e))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/00000000-0000-0000-0000-000064ac72b7"
           (reference "#PWR?") (unit 1)
         )
@@ -663,7 +663,7 @@
     (pin "1" (uuid eb887a55-8d2b-400a-a514-89ef4e8b90d8))
     (pin "2" (uuid 15480685-544e-4576-a979-39b935b46504))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/e8aaa04a-3e0b-4fcc-9719-a58df410b7e1"
           (reference "J3") (unit 1)
         )
@@ -688,7 +688,7 @@
     )
     (pin "1" (uuid 63956bd6-7fc9-4747-a466-bf65c9a56804))
     (instances
-      (project "ADF5355_VCO"
+      (project "ADF5355_Board"
         (path "/29349b68-071c-451b-9b1e-10b5ef7e12a6/00000000-0000-0000-0000-000064ac72b7"
           (reference "#PWR?") (unit 1)
         )
