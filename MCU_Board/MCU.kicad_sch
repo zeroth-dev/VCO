@@ -1799,7 +1799,7 @@
     (uuid f3aacae9-4d36-45bf-bfb4-63bf90d79a79)
   )
 
-  (hierarchical_label "DIGITAL_READ" (shape input) (at 144.78 78.74 0) (fields_autoplaced)
+  (hierarchical_label "SPI_MISO" (shape input) (at 144.78 78.74 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 06c5e48e-e0e4-4a64-b568-44dcb6138b68)
   )
