@@ -477,16 +477,8 @@
       "PowerSupply"
     ],
     [
-      "8e6d62a1-615e-4e74-ad33-9284c4715f87",
-      "MCU"
-    ],
-    [
       "e8aaa04a-3e0b-4fcc-9719-a58df410b7e1",
       "Connectors"
-    ],
-    [
-      "fa8fa127-05a9-4ec7-8a64-8bfb966dae3d",
-      "LCD screen"
     ],
     [
       "ea810e70-e3dc-4641-ad7c-8ecf7484ded2",
@@ -495,10 +487,6 @@
     [
       "4fb3fdf7-9989-4bca-990a-9fa91b0feaa2",
       "PLL_filter"
-    ],
-    [
-      "15f14a7a-b8b3-478a-b13a-51796c28d4d6",
-      "Status LEDs"
     ],
     [
       "0a9da532-7f24-4af9-aae6-2e30a2dfa71c",

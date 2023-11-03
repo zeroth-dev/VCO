@@ -314,7 +314,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 6bafd2f5-78e3-4f3e-8126-9e5918c8dbaf)
     )
-    (pin "EN" input (at 52.07 90.17 270)
+    (pin "ENrf" input (at 52.07 90.17 270)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid f9d7921c-5f09-4a72-9887-3e1e386fd192)
     )
