@@ -30,3 +30,7 @@ fp-info-cache
 *.xml
 *.csv
 *~$BOM.xlsx
+
+VCO_2/
+~*
+MCU_board/History/
