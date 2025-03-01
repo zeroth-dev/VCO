@@ -33,4 +33,5 @@ fp-info-cache
 
 VCO_2/
 ~*
-MCU_board/History/
+**/History/**
+**/__Previews/**

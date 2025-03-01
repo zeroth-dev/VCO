@@ -1,0 +1,29 @@
+Add Component: Footprint Not Found FP-LQW18AN_00-MFG
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin S?-2
+Add Pin To Net: Unknown Pin: Pin SW?-1
+Add Pin To Net: Unknown Pin: Pin SW?-2
+Add Pin To Net: Unknown Pin: Pin SW?-3
+Added Pin To Net: NetName=OSC32_P Pin=Y?-1
+Add Net: Net with name "NetC?_2" already exists
+Change Class Name : Old Net Name=PowerSupply New Net Name=MCU
+Added Class: Name=PowerSupply
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 10nF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=Connectors Member=Component J? 61232020621
+Added Member To Class: ClassName=Connectors Member=Component J? 2x5 Header
+Add Class Member: Failed to add class member : Component L? Ferrite
+Add Class Member: Failed to add class member : Component S? Generic 2-pin push button
+Add Class Member: Failed to add class member : Component SW? Single_SPDT
+Added Member To Class: ClassName=MCU Member=Component Y? ECS-.320-12.5-13X
+Added Member To Class: ClassName=MCU Member=Component Y? NX3225GD-8MHZ-STD-CRA-3
