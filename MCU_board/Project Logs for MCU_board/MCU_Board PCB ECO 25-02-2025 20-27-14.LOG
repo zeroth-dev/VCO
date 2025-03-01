@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=J? Old Footprint=SMTC-MMT-105-01-X-DH New Footprint=SMTC-MMT-105-01-X-DH
+Add Component: Footprint Not Found FP-LQW18AN_00-MFG
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin S?-2
+Add Pin To Net: Unknown Pin: Pin SW?-1
+Add Pin To Net: Unknown Pin: Pin SW?-2
+Add Pin To Net: Unknown Pin: Pin SW?-3
+Add Pin To Net: Unknown Pin: Pin Y?-
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=USB_N Pin=J?-2
+Added Pin To Net: NetName=USB_N Pin=U?-32
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J?-3
+Added Pin To Net: NetName=USB_P Pin=U?-33
+Added Net: Name=USB_P
+Change Class Name : Old Net Name=PowerSupply New Net Name=MCU
+Added Class: Name=PowerSupply
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 10nF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=Connectors Member=Component J? 2x5 Header
+Added Member To Class: ClassName=Connectors Member=Component J? 61232020621
+Add Class Member: Failed to add class member : Component L? Ferrite
+Add Class Member: Failed to add class member : Component S? Generic 2-pin push button
+Add Class Member: Failed to add class member : Component SW? Single_SPDT
+Added Member To Class: ClassName=MCU Member=Component Y? NX3225GD-8MHZ-STD-CRA-3
+Added Member To Class: ClassName=MCU Member=Component Y? ECS-.320-12.5-13X

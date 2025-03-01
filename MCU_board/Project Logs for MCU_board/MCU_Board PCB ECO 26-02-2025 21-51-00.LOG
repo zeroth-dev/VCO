@@ -1,0 +1,113 @@
+Add Component: Footprint Not Found FP-LQW18AN_00-MFG
+Added Component: Designator=R?(Res_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=J?-1
+Added Pin To Net: NetName=VDD Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-20
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin S?-2
+Add Pin To Net: Unknown Pin: Pin SW?-1
+Add Pin To Net: Unknown Pin: Pin SW?-2
+Add Pin To Net: Unknown Pin: Pin SW?-3
+Added Pin To Net: NetName=NetU?_9 Pin=U?-13
+Added Pin To Net: NetName=NetU?_8 Pin=U?-14
+Added Pin To Net: NetName=NetU?_6 Pin=U?-16
+Added Pin To Net: NetName=NetU?_5 Pin=U?-17
+Added Pin To Net: NetName=NetU?_4 Pin=U?-18
+Added Pin To Net: NetName=NetU?_3 Pin=U?-19
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U?-40
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=U?-38
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=NetJ?_7 Pin=U?-34
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-9
+Added Pin To Net: NetName=NetJ?_9 Pin=U?-37
+Added Net: Name=NetJ?_9
+Added Pin To Net: NetName=NetJ?_11 Pin=J?-11
+Added Pin To Net: NetName=NetJ?_11 Pin=R?-2
+Added Net: Name=NetJ?_11
+Added Pin To Net: NetName=NetJ?_13 Pin=J?-13
+Added Pin To Net: NetName=NetJ?_13 Pin=U?-39
+Added Net: Name=NetJ?_13
+Added Pin To Net: NetName=NetJ?_17 Pin=J?-17
+Added Pin To Net: NetName=NetJ?_17 Pin=R?-2
+Added Net: Name=NetJ?_17
+Added Pin To Net: NetName=NetJ?_19 Pin=J?-19
+Added Pin To Net: NetName=NetJ?_19 Pin=R?-2
+Added Net: Name=NetJ?_19
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Change Class Name : Old Net Name=PowerSupply New Net Name=MCU
+Added Class: Name=PowerSupply
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 10nF
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=MCU Member=Component C? 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 10uF
+Added Member To Class: ClassName=MCU Member=Component C? 20pF
+Added Member To Class: ClassName=Connectors Member=Component J? 2x5 Header
+Added Member To Class: ClassName=Connectors Member=Component J? 61232020621
+Add Class Member: Failed to add class member : Component L? Ferrite
+Added Member To Class: ClassName=Connectors Member=Component R? 10k
+Added Member To Class: ClassName=Connectors Member=Component R? 10k
+Added Member To Class: ClassName=Connectors Member=Component R? 10k
+Add Class Member: Failed to add class member : Component S? Generic 2-pin push button
+Add Class Member: Failed to add class member : Component SW? Single_SPDT
+Added Member To Class: ClassName=MCU Member=Component Y? ECS-.320-12.5-13X
+Added Member To Class: ClassName=MCU Member=Component Y? NX3225GD-8MHZ-STD-CRA-3
